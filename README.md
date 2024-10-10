@@ -2,7 +2,7 @@
 
 ## Reaction Wheel Simulation
 
-![Screenshot showing a simple model of a inverted reaction wheel pendulum with sliders indicating model parameters.](irwp/irwp.png "IRWP")
+<img src="irwp/irwp.png" height="350" />
 
 [Go to simulation!](https://petermurray.net/?page=irwp)
 
@@ -11,13 +11,13 @@
 10/2024
 ## Electric Racecar
 
-![Photo of a small open-wheel racecar taking a turn on a track.](fsae/fsae_epic.png "Electric Racecar")
+<img src="fsae/fsae_epic.png" height="300"/>
 
 &ensp; EV23 is WPI's electric racecar that raced at the 2023 Formula Hybrid + Electric competition, and <a href="https://www.formula-hybrid.org/history/2023">tied for third overall</a>. I worked with some incredibly talented engineers, and was a member of battery subteam.
 
 ### Redesigned accumulator & servicable segment rails
 
-![an aluminum enclosure shows high voltage equipment, segments filled with lithium ion cells, and an array of copper busbars.](fsae/busbars.png "Electric Racecar")
+<img src="fsae/busbars.png" height= "200" />
 
 <p float="center">
   <img src="fsae/segment_render.png" height="200" />
@@ -30,7 +30,7 @@
 2022-23 school year
 ## Motion Planning Animations
 
-![alt text](rrt/rrt0_gif.gif)
+<img src="rrt/rrt0_gif.gif" height= "300" />
 
 [see more](https://petermurray.net/?page=rrt)
 
@@ -38,7 +38,7 @@
 
 2023-24 school year
 ## Armgui
-![alt text](armgui/connected_v0.6.png)
+<img src="armgui/connected_v0.6.png" height= "250" />
 
 [see more](https://petermurray.net/?page=armgui)
 
